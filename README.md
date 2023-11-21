@@ -39,10 +39,4 @@ Implemented CRUD (Create, Read, Update, Delete) operations in MongoDB and integr
 
 Team of toal 5 members (Team-Void) contributed to the project's success:
 
-- [Piyush Kumar](https://github.com/piyushkumar24)
-- [Sonu Kumar](https://github.com/SonukumarCSE)
-- [Pratik Jodgudri](https://github.com/Pratik-Jodgudri)
-- [Gyaneshwer Jha](https://github.com/GyaneshwerJha)
-- [Madhav Choudhary](https://github.com/madhavc9)
-
 This showcase demonstrates our proficiency in Full Stack development, UI/UX design, and effective team collaboration. Explore the codebase for a closer look at our skills and the advanced features incorporated into the Motorbike Online Showroom Website.
