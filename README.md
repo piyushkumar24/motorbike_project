@@ -12,6 +12,9 @@ Impressive Motorbike Online Showroom Website developed by Team-Void during the M
 - Cart functionality for a smooth shopping experience.
 - Profile settings for users.
 - Admin panel to monitor order status and total sales.
+- Admin panel to add or delete or modify the products.
+- Orders can be tracked.
+- Users can modify their profile too.
 
 ## Technologies Used
 
