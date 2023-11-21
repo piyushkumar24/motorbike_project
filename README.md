@@ -15,8 +15,22 @@ Impressive Motorbike Online Showroom Website developed by Team-Void during the M
 
 ## Technologies Used
 
-- MERN Stack (MongoDB, Express.js, React.js, Node.js).
-- Implemented responsive and aesthetically pleasing design.
+### Frontend
+- React JS
+- JavaScript
+- Tailwind CSS
+
+### Backend
+- Node JS
+- Express JS
+- MongoDB
+
+### Backend Testing
+- MongoDB Compass
+- Postman
+
+Implemented CRUD (Create, Read, Update, Delete) operations in MongoDB and integrated it with React. This involves server-side (Node.js with Express) and client-side (React) code.
+
 
 ## Collaborators
 
